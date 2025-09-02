@@ -25,7 +25,5 @@ Además, expone un **CRUD de IPs** para poder gestionar y consultar la informaci
 - **Maven/Gradle**
 - **API Externa**: [ip-api.com](https://ip-api.com) / [ipstack](https://ipstack.com) (o la que uses)
 
----
 
-## 📂 Estructura del proyecto
 
